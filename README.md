@@ -1,8 +1,8 @@
 # E-commerce Analytics and Recommendation System
 
-# Project files
-Models -
-Presenation - https://docs.google.com/presentation/d/1iJbhhwCp9oOaWg0jNp-vrvUzzF5J9N67/edit?usp=sharing&ouid=115392145190850421540&rtpof=true&sd=true 
+## 🔗 Resources
+- 📂 [Models](https://drive.google.com/drive/folders/1Y3t4yaqgDBin66HgPwf1m-C1cDEEfKGp?usp=sharing)
+- 🎤 [Presentation](https://docs.google.com/presentation/d/1iJbhhwCp9oOaWg0jNp-vrvUzzF5J9N67/edit?usp=sharing&ouid=115392145190850421540&rtpof=true&sd=true)
 
 ## Project Overview
 
