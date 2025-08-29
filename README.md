@@ -1,5 +1,15 @@
 # E-commerce Analytics and Recommendation System
 
+## 📌 Live Demo
+👉 [Open the Streamlit App](https://e-commerceanalyticstmp-icbfj7tuy4s4qrglwsprbz.streamlit.app/)
+
+## ⚙️ Features
+- Upload raw CSV datasets (events, item properties, category tree).
+- Preprocesses data (timestamps, property parsing, category hierarchy, user features).
+- Generate hybrid recommendations for any user.
+- Adjustable parameters: number of recommendations, hybrid weight (CF vs CBF).
+- Simple and interactive UI.
+
 ## 🔗 Resources
 - 📂 [Models](https://drive.google.com/drive/folders/1Y3t4yaqgDBin66HgPwf1m-C1cDEEfKGp?usp=sharing)
 - 🎤 [Presentation](https://docs.google.com/presentation/d/1iJbhhwCp9oOaWg0jNp-vrvUzzF5J9N67/edit?usp=sharing&ouid=115392145190850421540&rtpof=true&sd=true)
